@@ -27,20 +27,19 @@
                 transform: translateY(0);
             }
         }
-
-        /* Custom scrollbar (opsional) */
+        
         ::-webkit-scrollbar {
             width: 8px;
         }
         ::-webkit-scrollbar-track {
-            background: #14532d; /* Ganti dengan warna tema Anda jika perlu */
+            background: #14532d;
         }
         ::-webkit-scrollbar-thumb {
-            background: #22c55e; /* Ganti dengan warna tema Anda jika perlu */
+            background: #22c55e; 
             border-radius: 4px;
         }
         ::-webkit-scrollbar-thumb:hover {
-            background: #16a34a; /* Ganti dengan warna tema Anda jika perlu */
+            background: #16a34a;
         }
     </style>
 </head>
